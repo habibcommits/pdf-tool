@@ -1,0 +1,47 @@
+{
+  "title": "PDF-Werkzeuge - Kostenlos und einfach zu bedienen",
+  "subtitle": "Kostenlose und einfach zu bedienende Online-PDF-Tools, die Sie produktiver machen",
+  "tools": {
+    "imageToPdf": {
+      "title": "Bilder zu PDF",
+      "description": "Erstellen Sie PDFs aus JPG und anderen Bildern"
+    },
+    "mergePdf": {
+      "title": "PDF zusammenführen",
+      "description": "Führen Sie PDF-Dateien zu einer einzigen PDF zusammen"
+    },
+    "compressPdf": {
+      "title": "PDF komprimieren",
+      "description": "PDF-Kompressor zur Reduzierung der Dateigröße"
+    }
+  },
+  "upload": {
+    "dragDrop": "Dateien hierher ziehen oder klicken zum Auswählen",
+    "processing": "Verarbeite...",
+    "download": "Herunterladen",
+    "error": "Fehler bei der Verarbeitung",
+    "selectFiles": "Dateien auswählen",
+    "uploading": "Hochladen..."
+  },
+  "compress": {
+    "subtitle": "PDF-Kompressor zur schnellen und einfachen Reduzierung der Dateigröße von PDF-Dateien",
+    "free": "Kostenlos",
+    "online": "Online",
+    "noLimits": "Keine Grenzen",
+    "secure": "Sicher",
+    "settings": "Einstellungen",
+    "imageQuality": "Bildqualität",
+    "color": "Farbe",
+    "noChange": "Keine Änderung",
+    "grayscale": "Graustufen",
+    "monochrome": "Schwarzweiß",
+    "compress": "PDF komprimieren",
+    "selectedFile": "Ausgewählte Datei",
+    "complete": "Komprimierung abgeschlossen!",
+    "info": "Niedrigere DPI- und Qualitätswerte reduzieren die Dateigröße stärker, können aber die Bildqualität beeinträchtigen."
+  },
+  "nav": {
+    "home": "Startseite",
+    "language": "Sprache"
+  }
+}

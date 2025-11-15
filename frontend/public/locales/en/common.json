@@ -1,0 +1,47 @@
+{
+  "title": "PDF Tools - Free and easy to use",
+  "subtitle": "Free and easy-to-use online PDF tools that make you more productive",
+  "tools": {
+    "imageToPdf": {
+      "title": "Images to PDF",
+      "description": "Create PDFs from JPG and other images"
+    },
+    "mergePdf": {
+      "title": "Merge PDF",
+      "description": "Merge PDF files into a single PDF"
+    },
+    "compressPdf": {
+      "title": "Compress PDF",
+      "description": "PDF compressor to reduce file size"
+    }
+  },
+  "upload": {
+    "dragDrop": "Drag and drop files here or click to select",
+    "processing": "Processing...",
+    "download": "Download",
+    "error": "Error processing file",
+    "selectFiles": "Select Files",
+    "uploading": "Uploading..."
+  },
+  "compress": {
+    "subtitle": "PDF compressor to reduce the size of PDF files quickly and easily",
+    "free": "Free",
+    "online": "Online",
+    "noLimits": "No limits",
+    "secure": "Secure",
+    "settings": "Settings",
+    "imageQuality": "Image quality",
+    "color": "Color",
+    "noChange": "No change",
+    "grayscale": "Grayscale",
+    "monochrome": "Monochrome",
+    "compress": "Compress PDF",
+    "selectedFile": "Selected file",
+    "complete": "Compression complete!",
+    "info": "Lower DPI and quality values reduce file size more but may affect image quality."
+  },
+  "nav": {
+    "home": "Home",
+    "language": "Language"
+  }
+}
